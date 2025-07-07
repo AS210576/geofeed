@@ -1,0 +1,23 @@
+# Date updated GMT+0900:2025-07-07 18:31
+# Seoul
+2a06:a005:1110::/48,KR,KR-11,Seoul,
+2a06:a005:1111::/48,KR,KR-11,Seoul,
+2a06:a005:1112::/48,KR,KR-11,Seoul,
+# Tokyo
+2a06:a005:1113::/48,JP,JP-13,Tokyo,
+2a06:a005:1114::/48,JP,JP-13,Tokyo,
+2a06:a005:1115::/48,JP,JP-13,Tokyo,
+2a06:a005:111d::/48,JP,JP-13,Tokyo,
+# Anycast
+2a06:a005:1117::/48,JP,JP-13,Tokyo,
+2a06:a005:1118::/48,JP,JP-13,Tokyo,
+2a06:a005:1119::/48,JP,JP-13,Tokyo,
+# New York
+2a06:a005:111a::/48,US,US-NY,"New York",
+2a06:a005:111b::/48,US,US-NY,"New York",
+# Kansas
+2a06:a005:111c::/48,US,US-MO,"Kansas City",
+2a06:a005:111e::/48,US,US-MO,"Kansas City",
+# Toronto
+2a06:a005:1116::/48,CA,CA-ON,Toronto,
+2a06:a005:111f::/48,CA,CA-ON,Toronto,
